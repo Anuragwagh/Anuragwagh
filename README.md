@@ -1,3 +1,5 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
 <h1 align="center">Hi 👋, I'm Anuragwagh</h1>
 <h3 align="center">Computer Enginner Passionate about creating things which will help Society</h3>
 
@@ -7,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing & DevOps**
 
-- 💬 Ask me about **Cloud Computing, Plan Something New**
+- 💬 Ask me about **...Anything**
 
 - 📫 How to reach me **anuragd230@gmail.com**
 
