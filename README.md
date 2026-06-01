@@ -26,7 +26,9 @@ Currently obsessing over kernel-level privacy, AI-native developer tools, and la
 
 **🔭 [LLM Observatory](https://obserflo.vercel.app)** — Traces LLM prompt costs and usage in real time. Built it because I was going blind on API spend.
 
-**🛠️ UtilX** — 65 micro tools across categories. The kind of thing you reach for when every other option is overkill.
+**🛠️ [UtilX](http://utilx.app/)** — 65 micro tools across categories. The kind of thing you reach for when every other option is overkill.
+
+**⚡ [Thought Stream](http://thoughtstream.anuragwagh.com/)** — A keyboard-first desktop app for capturing thoughts without breaking flow. Global hotkey (`Ctrl + Shift + Space`), slash-command categorization, zero mouse required. Built for deep thinkers who think faster than they can organize.
 
 **🧬 Memory OS** — Local-first AI memory layer. Python, ChromaDB, MCP. Your AI shouldn't forget who you are every time you open a new tab.
 
