@@ -1,4 +1,4 @@
-# Solo builder. Shipping what Big Tech ignores — from Pune, India, for the world.
+# Solo builder. Shipping what Big Tech ignores — from India, for the world.
 
 [![X](https://img.shields.io/badge/X-%40anuragwagh__-black?style=flat&logo=x)](https://twitter.com/anuragwagh_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuragwagh23-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuragwagh23/)
