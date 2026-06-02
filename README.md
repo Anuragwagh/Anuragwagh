@@ -74,12 +74,9 @@ The market rewards speed and specificity. A focused indie builder with taste can
 
 ## ⚡ Random Facts
 
-- I built PrepGrind's entire backend, frontend, and SEO pipeline while studying full-time
+- I built PrepGrind's entire backend, frontend, and SEO pipeline
 - My language models run on CPU because not everyone has a GPU — and most of India doesn't
-- I got into ML through competitive programming. Math first, frameworks second
 - I've spoken in front of 1000+ students but still prefer shipping to talking about shipping
-- I genuinely enjoy reading documentation. Yes, I know
-- Chai > Coffee. Always.
 
 ---
 
